@@ -1,0 +1,1 @@
+Prevents idle by sending keyboard F13 every 4 minutes. uses neopixels to count up so you can gauge when next autopress of F13 is going to happen.  neopixels all show white when keypress is sent, and then they all go dark after press.
